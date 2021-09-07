@@ -6,6 +6,8 @@ No momento busco transição de carreira para a área de TI.
 
 Atualmente estou estudando as tecnologias de front-end (HTML5, CSS3, Javascript, React, Angular). Após pretendo seguir as trilhas back-end (Node, Laravel) e Mobile (React Native). Pretendo também desenvolver habilidades em UX e UI design.
 
+🏳️‍🌈
+
 # **Tecnologias Aprendidas**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
