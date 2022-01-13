@@ -1,9 +1,9 @@
-# **Sobre Mim**
+# **Sobre Mim** 🏳️‍
 
 Tenho graduação em Ciências Sociais e especialização em Antropologia Social, ambas pela UFRGS. Trabalhei com pesquisas de campo, aplicações de entrevistas (estruturadas e semi-estruturadas) e grupos focais.
 
 Desde final de maio de 2021 tenho estudado a área de front-end e atualmente tenho habilidades com HTML, CSS, JavaScript e React. Ultimamente a área de UX (User Experience) tem me chamado a atenção, pois percebi que posso utilizar todo o meu conhecimento em pesquisa que aprendi na universidade (e também minhas habilidades básicas de front-end) para ajudar as pessoas a ter produtos e serviços que façam mais sentido para elas. Tenho interesse especial na área de UX Research, já que entendo ser uma ferramenta poderosa para compreender com precisão as dificuldade das pessoas e, assim, projetar as melhores soluções possíveis e gerar valor tanto para as empresas quanto para as pessoas usuárias.
-🏳️‍🌈
+
 
 # **Tecnologias**
 
