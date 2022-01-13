@@ -1,4 +1,4 @@
-# **Sobre Mim** 🏳️‍
+# **Sobre Mim** 🏳️‍🌈
 
 Tenho graduação em Ciências Sociais e especialização em Antropologia Social, ambas pela UFRGS. Trabalhei com pesquisas de campo, aplicações de entrevistas (estruturadas e semi-estruturadas) e grupos focais.
 
