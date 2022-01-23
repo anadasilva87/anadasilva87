@@ -2,7 +2,7 @@
 
 Tenho graduação em Ciências Sociais e especialização em Antropologia Social, ambas pela UFRGS. Trabalhei com pesquisas de campo, aplicações de entrevistas (estruturadas e semi-estruturadas) e grupos focais.
 
-Desde final de maio de 2021 tenho estudado a área de front-end e atualmente tenho habilidades com HTML, CSS, JavaScript e React. Ultimamente a área de UX (User Experience) tem me chamado a atenção, pois percebi que posso utilizar todo o meu conhecimento em pesquisa que aprendi na universidade (e também minhas habilidades básicas de front-end) para ajudar as pessoas a ter produtos e serviços que façam mais sentido para elas. Tenho interesse especial na área de UX Research, já que entendo ser uma ferramenta poderosa para compreender com precisão as dificuldade das pessoas e, assim, projetar as melhores soluções possíveis e gerar valor tanto para as empresas quanto para as pessoas usuárias.
+Desde final de maio de 2021 tenho estudado a área de front-end e atualmente tenho habilidades com HTML, CSS e JavaScript. Ultimamente a área de UX (User Experience) tem me chamado a atenção, pois percebi que posso utilizar todo o meu conhecimento em pesquisa que aprendi na universidade (e também minhas habilidades básicas de front-end) para ajudar as pessoas a ter produtos e serviços que façam mais sentido para elas. Tenho interesse especial na área de UX Research, já que entendo ser uma ferramenta poderosa para compreender com precisão as dificuldade das pessoas e, assim, projetar as melhores soluções possíveis e gerar valor tanto para as empresas quanto para as pessoas usuárias.
 
 
 # **Tecnologias**
@@ -13,8 +13,6 @@ Desde final de maio de 2021 tenho estudado a área de front-end e atualmente ten
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![TailWind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
